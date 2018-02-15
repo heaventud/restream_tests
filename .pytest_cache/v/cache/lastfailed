@@ -1,0 +1,3 @@
+{
+  "tests/basket_test.py::BasketTest::test_adding_to_basket": true
+}
